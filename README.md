@@ -15,6 +15,7 @@ View student lists with sorting and filtering options
 
 Technologies Used
 Programming Language: Python, HTML,CSS,JS
+
 Database:  MySQL
 
 **Installation**
